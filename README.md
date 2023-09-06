@@ -1,4 +1,4 @@
-<img src="https://github.com/mahyarmohammadimatin/Assembler_Disassembler_/blob/main/assembly.PNG" width="300">
+<img src="https://github.com/mahyarmohammadimatin/Assembler_Disassembler_/blob/main/assembly.PNG">
 In my Assembly course project, I implemented both an Assembler and a Disassembler in both Python and Assembly language.
 This project aimed to explore the intricate process of converting assembly instructions into machine code and vice versa, providing valuable insights into the inner workings of computer systems and programming languages.
 
